@@ -7,7 +7,7 @@ header{
     border-bottom-color: red;
     border-right-color: blue;
     border-width: 5px;
-    background-color: lightsteelblue
+    background-color: lightsteelblue;
 }
 
 .link-all{ /*this is the CSS for the hyperlinks for the internal pages. */
