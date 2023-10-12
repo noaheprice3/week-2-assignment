@@ -1,1 +1,153 @@
+body{
+    background-color: lightblue;
+}
 
+.link-all{
+    text-align: center;
+    border-style: solid;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-width: 10px;
+    border-radius: 22px;
+    border-color: black;
+    color:blue;
+}
+
+.div-links{
+    text-align: center;
+    font-size: xx-large;
+}
+
+#title1{
+    text-align: center;
+    font-family:georgia;
+}
+#title2{
+    text-align:center;
+    font-family:georgia;
+}
+#title3{
+    text-align: center;
+    font-family:georgia;
+}
+#title4{
+    text-align: center;
+    font-family:georgia;
+}
+
+table{
+    border-style: ridge;
+    margin-left: 600px;
+    border-width: 10px;
+    margin-top: 50px;
+}
+
+.p-img{
+    height: 100px;
+    width: 100px;
+    border-style: groove;
+    border-color:red;
+}
+.d-img{
+    height: 100px;
+    width: 100px;
+    border-style: groove;
+    border-color: green;
+}
+.m-img{
+    height: 100px;
+    width: 100px;
+    border-style: groove;
+    border-color: blue;
+}
+
+ul{
+    float:right;
+    margin-top: -360px;
+    position: relative; right: 700px;
+    border-style: dotted;
+    border-width: 10px;
+}
+.pedal-title{
+    font-size: 50px;
+    font-style: italic;
+}
+.equip-title{
+    font-size: 50px;
+    font-style: italic;
+}
+.li-p{
+    font-size: 25px;
+    font-family: impact;
+}
+.li-d{
+    font-size: 25px;
+    font-family: impact;
+}
+.li-m{
+    font-size: 25px;
+    font-family: impact;
+}
+
+form{
+    float:right;
+    margin-top: -180px;
+    position: relative; right:100px;
+    border-style: ridge;
+    border-color: darkblue;
+}
+
+.p-title{
+    font-size: xx-large;
+    text-align: center;
+    font-family: sans-serif;
+    color: red;
+}
+.pitch-img{
+    margin-left: 800px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: red;
+}
+.p-text{
+    text-align: center;
+    font-size: xx-large;
+    font-style: bolder;
+}
+
+.d-title{
+    font-size: xx-large;
+    text-align: center;
+    font-family: sans-serif;
+    color: green;
+}
+.ds1-img{
+    margin-left: 850px;
+    border-style:solid;
+    border-radius: 25px;
+    border-color: green;
+}
+.d-text{
+    text-align: center;
+    font-size: xx-large;
+    font-style: bolder;
+}
+
+.x-title{
+    font-size: xx-large;
+    text-align: center;
+    font-family: sans-serif;
+    color: blue;
+}
+.x-img{
+    height: 250px;
+    margin-left: 840px;
+    border-style:solid;
+    border-radius: 10px;
+    border-color: blue;
+}
+.x-text{
+    text-align: center;
+    font-size: xx-large;
+    font-style: bolder;
+}
