@@ -1,7 +1,7 @@
 body{ /*set the background color to lightblue. */
     background-color: lightblue;
 }
-header{
+header{ /* this is the CSS for the header, it is presented on all pages.*/
     border-style: double;
     border-left-color: green;
     border-bottom-color: red;
