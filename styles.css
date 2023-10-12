@@ -1,8 +1,8 @@
 body{
-    background-color: lightblue;
+    background-color: lightblue; /*set the background color to lightblue. */
 }
 
-.link-all{
+.link-all{ /*this is the CSS for the hyperlinks for the internal pages. */
     text-align: center;
     border-style: solid;
     margin-left: 25%;
@@ -13,12 +13,12 @@ body{
     color:blue;
 }
 
-.div-links{
+.div-links{ /* this is the CSS for the  div, it is presented on all the pages. */
     text-align: center;
     font-size: xx-large;
 }
 
-#title1{
+#title1{ /* This is the CSS for the page titles presented on each page. */
     text-align: center;
     font-family:georgia;
 }
@@ -35,7 +35,7 @@ body{
     font-family:georgia;
 }
 
-table{
+table{ /* this is the CSS for the table, it has the CSS for all the contents on each page as well. */
     border-style: ridge;
     margin-left: 600px;
     border-width: 10px;
@@ -61,7 +61,7 @@ table{
     border-color: blue;
 }
 
-ul{
+ul{ /* this is the CSS for the ul, it has the CSS for all the contents on each page as well. */
     float:right;
     margin-top: -360px;
     position: relative; right: 700px;
@@ -89,7 +89,7 @@ ul{
     font-family: impact;
 }
 
-form{
+form{ /* this is the CSS for the form, it is presented on all pages. */
     float:right;
     margin-top: -180px;
     position: relative; right:100px;
@@ -97,56 +97,58 @@ form{
     border-color: darkblue;
 }
 
-.p-title{
+#p-title{ /* this is the CSS for the Pitchfork page, it contains the title, image, and text. */
     font-size: xx-large;
     text-align: center;
     font-family: sans-serif;
     color: red;
 }
-.pitch-img{
+#pitch-img{
     margin-left: 800px;
     border-style: solid;
     border-radius: 10px;
     border-color: red;
 }
-.p-text{
+#p-text{
     text-align: center;
     font-size: xx-large;
     font-style: bolder;
 }
 
-.d-title{
+#d-title{ /* this is the CSS for the DS-1 page, it contains the title, image, and text. */
     font-size: xx-large;
     text-align: center;
     font-family: sans-serif;
     color: green;
 }
-.ds1-img{
+#ds1-img{
     margin-left: 850px;
     border-style:solid;
     border-radius: 25px;
     border-color: green;
 }
-.d-text{
+#d-text{
     text-align: center;
     font-size: xx-large;
     font-style: bolder;
 }
 
-.x-title{
+#x-title{ /* this is the CSS for the mixer page, it contains the title, image, and text. */
     font-size: xx-large;
     text-align: center;
     font-family: sans-serif;
     color: blue;
 }
-.x-img{
+#x-img{
     height: 250px;
     margin-left: 840px;
     border-style:solid;
     border-radius: 10px;
     border-color: blue;
 }
-.x-text{
+
+
+#x-text{
     text-align: center;
     font-size: xx-large;
     font-style: bolder;
